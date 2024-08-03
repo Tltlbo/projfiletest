@@ -15,6 +15,7 @@
 		4E8244712C5E113100A40BFF /* rfferfw.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8244702C5E113100A40BFF /* rfferfw.swift */; };
 		4E8244732C5E120A00A40BFF /* .gitattributes in Resources */ = {isa = PBXBuildFile; fileRef = 4E8244722C5E120A00A40BFF /* .gitattributes */; };
 		4E8244772C5E12AD00A40BFF /* wwevnwn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8244762C5E12AD00A40BFF /* wwevnwn.swift */; };
+		4E8244752C5E129600A40BFF /* asdkjfsakf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8244742C5E129600A40BFF /* asdkjfsakf.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4E8244702C5E113100A40BFF /* rfferfw.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rfferfw.swift; sourceTree = "<group>"; };
 		4E8244722C5E120A00A40BFF /* .gitattributes */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitattributes; sourceTree = "<group>"; };
 		4E8244762C5E12AD00A40BFF /* wwevnwn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wwevnwn.swift; sourceTree = "<group>"; };
+		4E8244742C5E129600A40BFF /* asdkjfsakf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asdkjfsakf.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				4E8244612C5E0CED00A40BFF /* Preview Content */,
 				4E8244702C5E113100A40BFF /* rfferfw.swift */,
 				4E8244762C5E12AD00A40BFF /* wwevnwn.swift */,
+				4E8244742C5E129600A40BFF /* asdkjfsakf.swift */,
 			);
 			path = projfiletest;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				4E82445E2C5E0CEB00A40BFF /* ContentView.swift in Sources */,
 				4E82445C2C5E0CEB00A40BFF /* projfiletestApp.swift in Sources */,
 				4E8244712C5E113100A40BFF /* rfferfw.swift in Sources */,
+				4E8244752C5E129600A40BFF /* asdkjfsakf.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
