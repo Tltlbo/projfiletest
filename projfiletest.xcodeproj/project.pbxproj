@@ -14,8 +14,9 @@
 		4E82446B2C5E0E1000A40BFF /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 4E82446A2C5E0E1000A40BFF /* .gitignore */; };
 		4E8244712C5E113100A40BFF /* rfferfw.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8244702C5E113100A40BFF /* rfferfw.swift */; };
 		4E8244732C5E120A00A40BFF /* .gitattributes in Resources */ = {isa = PBXBuildFile; fileRef = 4E8244722C5E120A00A40BFF /* .gitattributes */; };
-		4E8244772C5E12AD00A40BFF /* wwevnwn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8244762C5E12AD00A40BFF /* wwevnwn.swift */; };
 		4E8244752C5E129600A40BFF /* asdkjfsakf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8244742C5E129600A40BFF /* asdkjfsakf.swift */; };
+		4E8244772C5E12AD00A40BFF /* wwevnwn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8244762C5E12AD00A40BFF /* wwevnwn.swift */; };
+		4E82447C2C5E51EE00A40BFF /* frefer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E82447B2C5E51EE00A40BFF /* frefer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,8 +29,9 @@
 		4E82446A2C5E0E1000A40BFF /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		4E8244702C5E113100A40BFF /* rfferfw.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rfferfw.swift; sourceTree = "<group>"; };
 		4E8244722C5E120A00A40BFF /* .gitattributes */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitattributes; sourceTree = "<group>"; };
-		4E8244762C5E12AD00A40BFF /* wwevnwn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wwevnwn.swift; sourceTree = "<group>"; };
 		4E8244742C5E129600A40BFF /* asdkjfsakf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asdkjfsakf.swift; sourceTree = "<group>"; };
+		4E8244762C5E12AD00A40BFF /* wwevnwn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wwevnwn.swift; sourceTree = "<group>"; };
+		4E82447B2C5E51EE00A40BFF /* frefer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = frefer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 		4E82445A2C5E0CEB00A40BFF /* projfiletest */ = {
 			isa = PBXGroup;
 			children = (
+				4E82447A2C5E51D500A40BFF /* testgroup */,
 				4E82445B2C5E0CEB00A40BFF /* projfiletestApp.swift */,
 				4E82445D2C5E0CEB00A40BFF /* ContentView.swift */,
 				4E82445F2C5E0CED00A40BFF /* Assets.xcassets */,
@@ -82,6 +85,14 @@
 				4E8244622C5E0CED00A40BFF /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4E82447A2C5E51D500A40BFF /* testgroup */ = {
+			isa = PBXGroup;
+			children = (
+				4E82447B2C5E51EE00A40BFF /* frefer.swift */,
+			);
+			path = testgroup;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -157,6 +168,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E8244772C5E12AD00A40BFF /* wwevnwn.swift in Sources */,
+				4E82447C2C5E51EE00A40BFF /* frefer.swift in Sources */,
 				4E82445E2C5E0CEB00A40BFF /* ContentView.swift in Sources */,
 				4E82445C2C5E0CEB00A40BFF /* projfiletestApp.swift in Sources */,
 				4E8244712C5E113100A40BFF /* rfferfw.swift in Sources */,
