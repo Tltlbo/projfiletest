@@ -38,6 +38,7 @@
 		4E82444F2C5E0CEB00A40BFF = {
 			isa = PBXGroup;
 			children = (
+				4E82446A2C5E0E1000A40BFF /* .gitignore */,
 				4E82445A2C5E0CEB00A40BFF /* projfiletest */,
 				4E8244592C5E0CEB00A40BFF /* Products */,
 			);
@@ -59,7 +60,6 @@
 				4E82445F2C5E0CED00A40BFF /* Assets.xcassets */,
 				4E8244642C5E0CED00A40BFF /* projfiletest.entitlements */,
 				4E8244612C5E0CED00A40BFF /* Preview Content */,
-				4E82446A2C5E0E1000A40BFF /* .gitignore */,
 			);
 			path = projfiletest;
 			sourceTree = "<group>";
